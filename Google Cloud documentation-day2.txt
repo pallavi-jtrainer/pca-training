@@ -1,0 +1,44 @@
+Google Cloud documentation
+
+Certification
+
+Exam guide: https://cloud.google.com/learn/certification/guides/professional-cloud-architect
+Certification page: https://cloud.google.com/certification/cloud-architect
+Architecture Framework: https://cloud.google.com/architecture/framework
+
+Module 1: VPC, firewalls and networking
+
+VPC networks overview: https://cloud.google.com/vpc/docs/vpc
+Subnets: https://cloud.google.com/vpc/docs/subnets
+Routes: https://cloud.google.com/vpc/docs/routes
+VPC firewall rules: https://cloud.google.com/firewall/docs/firewalls
+Firewall policies overview: https://cloud.google.com/firewall/docs/firewall-policies-overview
+Using firewall rules: https://cloud.google.com/firewall/docs/using-firewalls
+Private Google Access: https://cloud.google.com/vpc/docs/private-google-access
+Cloud NAT: https://cloud.google.com/nat/docs/overview
+Shared VPC: https://cloud.google.com/vpc/docs/shared-vpc
+VPC Network Peering: https://cloud.google.com/vpc/docs/vpc-peering
+VPC Flow Logs: https://cloud.google.com/vpc/docs/flow-logs
+Connectivity Tests: https://cloud.google.com/network-intelligence-center/docs/connectivity-tests/concepts/overview
+IAP TCP forwarding: https://cloud.google.com/iap/docs/using-tcp-forwarding
+
+Modules 3 and 4: Compute Engine
+
+Machine families: https://cloud.google.com/compute/docs/machine-resource
+Instances overview: https://cloud.google.com/compute/docs/instances
+Spot VMs: https://cloud.google.com/compute/docs/instances/spot
+Committed use discounts: https://cloud.google.com/compute/docs/instances/committed-use-discounts-overview
+Disks: https://cloud.google.com/compute/docs/disks
+Snapshots: https://cloud.google.com/compute/docs/disks/snapshots
+Images: https://cloud.google.com/compute/docs/images
+Metadata server: https://cloud.google.com/compute/docs/metadata/overview
+Startup scripts: https://cloud.google.com/compute/docs/instances/startup-scripts
+OS Login: https://cloud.google.com/compute/docs/oslogin
+Live migration: https://cloud.google.com/compute/docs/instances/live-migration-process
+Shielded VM: https://cloud.google.com/compute/shielded-vm/docs/shielded-vm
+Confidential VM: https://cloud.google.com/confidential-computing/confidential-vm/docs/about-cvm
+Sole-tenant nodes: https://cloud.google.com/compute/docs/nodes/sole-tenant-nodes
+Instance templates: https://cloud.google.com/compute/docs/instance-templates
+Managed instance groups: https://cloud.google.com/compute/docs/instance-groups
+Autoscaling: https://cloud.google.com/compute/docs/autoscaler
+Autohealing: https://cloud.google.com/compute/docs/instance-groups/autohealing-instances-in-migs
